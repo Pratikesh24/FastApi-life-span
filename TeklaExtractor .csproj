@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Tekla supports .NET Framework, not .NET Core -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>TeklaExtractor</RootNamespace>
+    <AssemblyName>TeklaExtractor</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Tekla Open API DLL references -->
+    <Reference Include="Tekla.Structures.Model">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Tekla.Structures.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Geometry3d.Compatibility">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Tekla.Structures.Geometry3d.Compatibility.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Net48Runtime\Tekla.Structures.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>C:\TeklaStructures\2026.0\bin\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>C:\TeklaStructures\2026.0\bin\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>C:\TeklaStructures\2026.0\bin\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>C:\TeklaStructures\2026.0\bin\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>C:\TeklaStructures\2026.0\bin\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

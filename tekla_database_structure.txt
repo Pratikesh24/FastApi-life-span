@@ -1,0 +1,85 @@
+﻿Tekla Database Structure
+========================
+Extracted At: 2026-05-20T10:55:18.7748113+05:30
+Model Name: New model.db1
+Model Path: C:\TeklaStructuresModels\New model
+Current Phase: 1
+
+Summary
+-------
+Total Objects: 256
+Total Parts: 59
+
+Object Counts
+-------------
+Beam: 59
+Assembly: 59
+ControlPoint: 118
+Site: 1
+LoadGroup: 1
+HierarchicDefinition: 1
+HierarchicObject: 1
+GridPlane: 15
+Grid: 1
+
+Parts
+-----
+7640 | 32fd3e90-c56b-4b49-9268-b4a3241f431a | Beam | BEAM | 250*400 | Concrete_Undefined | Class 4 | Start (8000, 0, 0) | End (8000, 8000, 0)
+7615 | 9b1d8ac7-48a1-41c5-ae37-34b86796007e | Beam | BEAM | 250*400 | Concrete_Undefined | Class 4 | Start (0, 0, 0) | End (0, 8000, 0)
+7590 | 8c920457-392a-418d-ae93-1ac54f3182a4 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 4 | Start (0, 8000, 0) | End (8000, 8000, 0)
+7563 | 299fdd53-b53e-4438-b013-06599d22f49b | Beam | BEAM | 250*400 | Concrete_Undefined | Class 4 | Start (0, 0, 0) | End (8000, 0, 0)
+7538 | 5553bcdb-8c69-45c7-899e-ba65b85d8ef5 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (8000, 4000, 6000) | End (8000, 8000, 6000)
+7513 | 0c2be1eb-7c64-44d5-97e8-2a4cdbee3fda | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (8000, 0, 6000) | End (8000, 4000, 6000)
+7488 | 4b90cdd9-053c-43e3-81e5-e396df19e688 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (8000, 4000, 3000) | End (8000, 8000, 3000)
+7463 | 6060303f-4095-4ddc-be31-8f4fe447545a | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (8000, 0, 3000) | End (8000, 4000, 3000)
+7438 | b4bcf974-6559-48b4-aad4-7a48797a1151 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 4000, 6000) | End (4000, 8000, 6000)
+7413 | 8702473d-776a-4d1b-80af-0db9664b61f9 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 0, 6000) | End (4000, 4000, 6000)
+7388 | 6bcfc860-0dcf-4fa3-a934-5063e0343e1b | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 4000, 3000) | End (4000, 8000, 3000)
+7363 | 0753f5cd-b8d5-4f83-bfd4-53614a359700 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 0, 3000) | End (4000, 4000, 3000)
+7338 | 4f092b9b-7676-4a27-89b4-cb354e7ddc74 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 4000, 6000) | End (0, 8000, 6000)
+7313 | 0ac27dfc-9e55-4db2-8495-e88c61070097 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 0, 6000) | End (0, 4000, 6000)
+7288 | bd15695e-bfb5-4945-ba4c-67f47e645d2f | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 4000, 3000) | End (0, 8000, 3000)
+7261 | 7b4b8398-2560-4caf-8626-4bc5dd57843c | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 0, 3000) | End (0, 4000, 3000)
+7236 | c58e6bc7-6cb7-4176-b840-5459c09552af | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 8000, 6000) | End (8000, 8000, 6000)
+7211 | aae0acd4-473a-4e31-b5e5-882bb215f6d7 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 8000, 6000) | End (4000, 8000, 6000)
+7186 | d3ec58f7-1c47-412a-9805-11de99219b32 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 8000, 3000) | End (8000, 8000, 3000)
+7161 | f3f8f472-36b0-4707-b6e7-e3aa23eff072 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 8000, 3000) | End (4000, 8000, 3000)
+7136 | b485ebb9-03de-44cd-a835-8c4e626da21a | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 4000, 6000) | End (8000, 4000, 6000)
+7111 | b65d91a0-e3fb-4f34-8eb3-7a8eb91acaa2 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 4000, 6000) | End (4000, 4000, 6000)
+7086 | 80a4d9ac-b3b0-4be3-8275-a271a0a06a8f | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 4000, 3000) | End (8000, 4000, 3000)
+7061 | cd5d1146-371b-4f48-b98c-f5da7f2b978c | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 4000, 3000) | End (4000, 4000, 3000)
+7036 | 12c4f87b-1043-4540-bfd9-c91cfc69ffb0 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 0, 6000) | End (8000, 0, 6000)
+7011 | b8acf2e7-381b-4706-91d0-77be1c3ded6f | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 0, 6000) | End (4000, 0, 6000)
+6986 | ade068a1-599e-4ec2-8730-16df116b53a8 | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (4000, 0, 3000) | End (8000, 0, 3000)
+6958 | 4789d233-c0bb-421b-987e-650017e56c1a | Beam | BEAM | 250*400 | Concrete_Undefined | Class 3 | Start (0, 0, 3000) | End (4000, 0, 3000)
+6933 | bb2845d0-0a19-41f8-9fcc-1d623b6203c8 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (8000, 8000, 3000) | End (8000, 8000, 6000)
+6908 | 3ccb17dc-b6a7-4289-ab25-2be41d032f04 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (8000, 8000, 0) | End (8000, 8000, 3000)
+6883 | dd80e31f-c3e6-49d9-a868-491f3b0e1728 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (8000, 4000, 3000) | End (8000, 4000, 6000)
+6858 | f1dc5913-9c76-4438-8d3c-d3b70caed761 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (8000, 4000, 0) | End (8000, 4000, 3000)
+6833 | 5482ed3a-265d-49a7-ac6e-01e244b07904 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (8000, 0, 3000) | End (8000, 0, 6000)
+6808 | e5e1a449-6e97-4b24-88f6-410e526ae0e4 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (8000, 0, 0) | End (8000, 0, 3000)
+6783 | 39815377-eae6-4905-bdba-42a7ddc7a25c | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (4000, 8000, 3000) | End (4000, 8000, 6000)
+6758 | 450ca38d-0a89-4b98-b3b8-f8600877355a | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (4000, 8000, 0) | End (4000, 8000, 3000)
+6733 | d56cf2ab-4179-4a03-ab01-29fffffac8bd | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (4000, 4000, 3000) | End (4000, 4000, 6000)
+6708 | 06e68d1d-e358-412d-9498-2c04bdd07373 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (4000, 4000, 0) | End (4000, 4000, 3000)
+6683 | c1f775a8-29dd-4711-8d81-c3d9a540714f | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (4000, 0, 3000) | End (4000, 0, 6000)
+6658 | a8994e14-6df4-4760-8f32-8dab8b0ebbd9 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (4000, 0, 0) | End (4000, 0, 3000)
+6633 | 99bfb988-f803-4cb3-9e91-24360941c8d7 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (0, 8000, 3000) | End (0, 8000, 6000)
+6608 | cb334554-7b49-4def-8471-6726c991a5cb | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (0, 8000, 0) | End (0, 8000, 3000)
+6583 | a1977c92-21c4-4dd4-9770-605e86f380e3 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (0, 4000, 3000) | End (0, 4000, 6000)
+6558 | 955bf326-555a-4ccc-838f-50829d44e389 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (0, 4000, 0) | End (0, 4000, 3000)
+6533 | ac5a4671-bd76-4606-8dcb-aa1c28d27130 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (0, 0, 3000) | End (0, 0, 6000)
+6506 | 74c91761-4899-4555-8daa-2950d0b09706 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 1 | Start (0, 0, 0) | End (0, 0, 3000)
+5691 | 520b598a-8873-46bc-ab50-c4627dbb3477 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 4000, 3000) | End (4000, 4000, 3000)
+5664 | 29b18b2c-4041-4272-8493-6df78e427b5c | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 0, 3000) | End (4000, 0, 3000)
+5639 | e7eb94df-8db1-4756-8ff6-5a568a589250 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (4000, 4000, 0) | End (4000, 4000, 3000)
+5614 | ece673e7-b698-42e3-b932-1773aa356e8a | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 4000, 0) | End (0, 4000, 3000)
+5589 | d19c8226-5fef-477b-b8bf-6634acb46777 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (4000, 0, 0) | End (4000, 0, 3000)
+5559 | 417ef2c5-9ff4-4a02-892c-a743bf665e55 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 0, 0) | End (0, 0, 3000)
+5514 | 1dbd4b37-db12-49b4-9f41-9f3efb4ce300 | Beam | MY_FIRST_BEAM | HI300-10-15*200 | Steel_Undefined | Class 3 | Start (0, 0, 0) | End (6000, 0, 0)
+6186 | 13a49778-8bac-43f3-a04a-4a088929c364 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 0, 0) | End (0, 0, 3000)
+6211 | 83baaac6-d579-4a25-ae33-ebc9ddf8c547 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (4000, 0, 0) | End (4000, 0, 3000)
+6236 | d0259f6f-8d4b-41b8-8661-5239e1629c7f | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 4000, 0) | End (0, 4000, 3000)
+6261 | 25ae69ab-846c-4300-b1d9-4bbc7332cb9f | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (4000, 4000, 0) | End (4000, 4000, 3000)
+6286 | b0465db5-3059-4088-bbe9-d8c2fc2f2fa8 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 0, 3000) | End (4000, 0, 3000)
+6311 | f80b19ce-1eec-4c8a-8527-118400b0a870 | Beam | BEAM | 300*300 | Concrete_Undefined | Class 3 | Start (0, 4000, 3000) | End (4000, 4000, 3000)
